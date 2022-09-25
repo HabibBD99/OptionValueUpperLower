@@ -1,0 +1,28 @@
+.Card{
+height: 300px;
+width: 400px;
+background-color: white;
+border: 1px solid grey;
+margin: 0 auto;
+margin-top:70px; 
+
+
+}
+
+
+#Text{
+columns: 10px;
+resize: none;
+margin-left: 50px;
+margin-top: 50px; 
+text-align: left;
+word-spacing: 10px;
+border:2px wrap none;
+
+}
+.Btn{
+
+margin-left: 65px;
+
+
+}
